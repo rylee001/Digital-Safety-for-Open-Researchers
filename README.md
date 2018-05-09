@@ -46,6 +46,8 @@ Please review our [community agreement](https://github.com/opendigitalsafety/Dig
 
 Please review our [contributor guidelines](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/blob/master/CONTRIBUTING.md) prior to working on this project.
 
+You can explore our [current issues](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/issues) to see how you can contribute!
+
 ## Why Contribute to This Project?
 
 + You will be part of a collective project that can be reused.  
