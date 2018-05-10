@@ -111,7 +111,6 @@ Having an adversarial mindset about the internet means researching different web
 ## See All Suggested Tools and Practices in this Chapter
 * [Tor](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjzxZv74eTaAhWrjVQKHWRVAZoQFggpMAA&url=https%3A%2F%2Fwww.torproject.org%2Fprojects%2Ftorbrowser.html.en&usg=AOvVaw0QHvNXOPVLKP4aneYQ4yLg)
 * Data brokers
-* Securing passwords
 * [LastPass](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjL4MW14uTaAhXjq1QKHcDsB-sQFggpMAA&url=https%3A%2F%2Fwww.lastpass.com%2F&usg=AOvVaw22wCGv58rl_Qg-Gh0xa4dX)
 * Two-factor authentication
 * [Diceware method for secure passwords](http://world.std.com/~reinhold/diceware.html)
