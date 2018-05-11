@@ -103,6 +103,9 @@ Having an adversarial mindset about the internet means researching different web
 
 * [Protecting Information from Doxxing by Pen America](https://onlineharassmentfieldmanual.pen.org/cyber-safety/protecting-information-from-doxing/) 
 
+* Lindsay Blackwell, Jill Dimond, Sarita Schoenebeck, and Cliff Lampe. 2017. Classification and Its Consequences for Online Harassment: Design Insights from HeartMob. Proc. ACM Hum.-Comput. Interact., Vol. 1, No. 2, Article 24 (November 2017). [https://doi.org/10.1145/3134659](https://doi.org/10.1145/3134659)
+*Provides a definition of online harassment and discusses impact.*
+
 * [Establishing Supportive Cyber Communities by Pen America](https://onlineharassmentfieldmanual.pen.org/cyber-safety/establishing-supportive-cyber-communities/) 
 
 ## Lesson Plans
