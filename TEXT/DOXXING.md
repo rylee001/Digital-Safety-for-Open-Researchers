@@ -108,7 +108,11 @@ Having an adversarial mindset about the internet means researching different web
 
 * [Establishing Supportive Cyber Communities by Pen America](https://onlineharassmentfieldmanual.pen.org/cyber-safety/establishing-supportive-cyber-communities/) 
 
-Whitney Phillips, *This is Why We Can't Have Nice Things: Mapping the Relationship Between Online Trolling and Mainstream Culture.* MIT Press, 2015.
+* Whitney Phillips, *This is Why We Can't Have Nice Things: Mapping the Relationship Between Online Trolling and Mainstream Culture.* MIT Press, 2015.
+
+* Marwick, Blackwell, & Lo ["Best Practices for Conducting Risky Research and Protecting Yourself from Online Harassment."](https://datasociety.net/output/best-practices-for-conducting-risky-research/)
+
+* [FemTechNet's Center for Solutions to Online Violence](https://femtechnet.org/csov/)
 
 ## Lesson Plans
 
