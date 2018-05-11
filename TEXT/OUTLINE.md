@@ -36,7 +36,7 @@
 * See All Suggested Tools & Practices in this Chapter
 
 ## [Communicating Your Work](https://github.com/opendigitalsafety/Digital-Safety-for-Open-Researchers/blob/master/TEXT/COMMUNICATING.md)
-* Defining the Problem (Clickbait title and work taken out of context)
+* Defining the Problem (Clickbait titles, work taken out of context, Twitter controversies)
 * Learning Objectives
 * Case Stud(ies)
   * Discussion Questions
