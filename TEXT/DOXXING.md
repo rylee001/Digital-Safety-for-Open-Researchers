@@ -108,6 +108,8 @@ Having an adversarial mindset about the internet means researching different web
 
 * [Establishing Supportive Cyber Communities by Pen America](https://onlineharassmentfieldmanual.pen.org/cyber-safety/establishing-supportive-cyber-communities/) 
 
+Whitney Phillips, *This is Why We Can't Have Nice Things: Mapping the Relationship Between Online Trolling and Mainstream Culture.* MIT Press, 2015.
+
 ## Lesson Plans
 
 
