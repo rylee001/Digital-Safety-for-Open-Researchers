@@ -41,5 +41,9 @@
 #### Highlighted Tools & Practices
 
 ### Additional Resources
+* Tressie Cottom McMillan, [“Who Do You Think You Are?”: When Marginality Meets Academic Microcelebrity](https://adanewmedia.org/2015/04/issue7-mcmillancottom/) in Ada. 
+*Precise diagnostic account of differential risk in academic contexts.*
+
+
 
 ### Sample Syllabi or Assignments
