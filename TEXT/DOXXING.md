@@ -98,11 +98,11 @@ Having an adversarial mindset about the internet means researching different web
 
 * [Threat Modeling](https://ssd.eff.org/en/module/assessing-your-risks) *Created by the Electronic Frontier Foundation, this tools helps you walk through a personal risk assessment.* 
 
-* [Preventing Doxxing by Feminist Frequency](https://onlinesafety.feministfrequency.com/en/) 
+* [Preventing Doxxing by Feminist Frequency](https://onlinesafety.feministfrequency.com/en/) *Pratical tips on preventing doxxing, setting up secure passwords, website security and more!*
 
-* [Preparing for and Responding to Online Harassment by Pen America](https://onlineharassmentfieldmanual.pen.org/cyber-safety/) 
+* [Preparing for and Responding to Online Harassment by Pen America](https://onlineharassmentfieldmanual.pen.org/cyber-safety/) *Tips for how to prepare for and respond to online harassment.*
 
-* [Protecting Information from Doxxing by Pen America](https://onlineharassmentfieldmanual.pen.org/cyber-safety/protecting-information-from-doxing/) 
+* [Protecting Information from Doxxing by Pen America](https://onlineharassmentfieldmanual.pen.org/cyber-safety/protecting-information-from-doxing/) *Practical tips for removing yourself from data broker lists, checking social media privacy settings, disabling geolocation settings, and more!*
 
 * Lindsay Blackwell, Jill Dimond, Sarita Schoenebeck, and Cliff Lampe. 2017. Classification and Its Consequences for Online Harassment: Design Insights from HeartMob. Proc. ACM Hum.-Comput. Interact., Vol. 1, No. 2, Article 24 (November 2017). [https://doi.org/10.1145/3134659](https://doi.org/10.1145/3134659)
 *Provides a definition of online harassment and discusses impact.*
